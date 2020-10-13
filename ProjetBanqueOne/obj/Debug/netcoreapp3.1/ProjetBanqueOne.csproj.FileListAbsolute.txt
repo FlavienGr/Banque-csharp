@@ -1,0 +1,12 @@
+C:\Users\flavi\Documents\bts\csharp\ProjetBanqueOne\obj\Debug\netcoreapp3.1\ProjetBanqueOne.AssemblyInfoInputs.cache
+C:\Users\flavi\Documents\bts\csharp\ProjetBanqueOne\obj\Debug\netcoreapp3.1\ProjetBanqueOne.AssemblyInfo.cs
+C:\Users\flavi\Documents\bts\csharp\ProjetBanqueOne\obj\Debug\netcoreapp3.1\ProjetBanqueOne.csproj.CoreCompileInputs.cache
+C:\Users\flavi\Documents\bts\csharp\ProjetBanqueOne\bin\Debug\netcoreapp3.1\ProjetBanqueOne.exe
+C:\Users\flavi\Documents\bts\csharp\ProjetBanqueOne\bin\Debug\netcoreapp3.1\ProjetBanqueOne.deps.json
+C:\Users\flavi\Documents\bts\csharp\ProjetBanqueOne\bin\Debug\netcoreapp3.1\ProjetBanqueOne.runtimeconfig.json
+C:\Users\flavi\Documents\bts\csharp\ProjetBanqueOne\bin\Debug\netcoreapp3.1\ProjetBanqueOne.runtimeconfig.dev.json
+C:\Users\flavi\Documents\bts\csharp\ProjetBanqueOne\bin\Debug\netcoreapp3.1\ProjetBanqueOne.dll
+C:\Users\flavi\Documents\bts\csharp\ProjetBanqueOne\bin\Debug\netcoreapp3.1\ProjetBanqueOne.pdb
+C:\Users\flavi\Documents\bts\csharp\ProjetBanqueOne\obj\Debug\netcoreapp3.1\ProjetBanqueOne.dll
+C:\Users\flavi\Documents\bts\csharp\ProjetBanqueOne\obj\Debug\netcoreapp3.1\ProjetBanqueOne.pdb
+C:\Users\flavi\Documents\bts\csharp\ProjetBanqueOne\obj\Debug\netcoreapp3.1\ProjetBanqueOne.genruntimeconfig.cache
